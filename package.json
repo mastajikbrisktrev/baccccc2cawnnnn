@@ -1,0 +1,34 @@
+{
+  "name": "baccccc2cawnnnn",
+  "version": "1.0.11",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mastajikbrisktrev/baccccc2cawnnnn.git"
+  },
+  "dependencies": {
+    "phuongtrinh-bac2-thangcaop": "1.0.2",
+    "haiiibaccctrinhhh": "1.0.9",
+    "phuongtrinh-3an-chuantruoi": "1.0.3",
+    "baannnntrinhhh": "1.0.9",
+    "canbac2-mastajikbrisktrev": "1.0.22",
+    "binhphuong-bolognesedog26": "1.0.3",
+    "phuonggggbinhhhh":"1.0.6",
+    "chianguyen-moroccanbur":"1.0.2",
+    "nguyeeennnchiiaaaa":"1.0.7",
+    "chialayphhandu-thuyvi0641":"1.0.12"
+    },
+ "homepage": "https://github.com/mastajikbrisktrev/baccccc2cawnnnn",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "mastajikbrisktrev",
+  "license": "MIT"
+}
